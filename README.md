@@ -2,7 +2,6 @@
 
 <h3 align="center">Backend developer from Iran</h3>
 
-- 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me **mehran.fmp@gmail.com**
 
 </br>
